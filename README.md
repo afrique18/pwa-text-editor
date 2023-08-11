@@ -5,8 +5,8 @@ Tasked to create a browser-based text editor application that allows users to cr
 
 ## Installation
 
-- Clone the repository: 'git clone <repository-url>'
-- Navigate to the prooject directory
+- Clone the repository: 'git clone'
+- Navigate to the project directory
 - Install all dependencies: 'npm i'
 - Start the server: 'npm run start'
 
